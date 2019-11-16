@@ -1,0 +1,11 @@
+{
+  "name": "movies-app",
+  "version": "1.0.0",
+  "description": "A MEAN stack movies App",
+  "main": "sever.js",
+  "scripts": {
+    "test": "\"\":"
+  },
+  "author": "Allahjah Kalif",
+  "license": "ISC"
+}
